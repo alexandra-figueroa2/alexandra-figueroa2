@@ -1,4 +1,4 @@
-# Hi, I'm [Alexandra Figueroa] 👋
+# Hi, I'm Alexandra Figueroa 👋
 
 I'm an aspiring **Cybersecurity Analyst** and **Python Developer** building my skills one project at a time.
 
